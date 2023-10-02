@@ -6,9 +6,10 @@ I wield the mystical powers of React, Express, Node, and an array of other encha
 
 ## 🔮 Magic Ingredients
 
-- **Frontend Sorcery:** React.js, HTML, CSS, JavaScript
-- **Backend Alchemy:** Express.js, Node.js
+- **Frontend Sorcery:** React.js, JavaScript, HTML, CSS, Sass, Styled-Components
+- **Backend Alchemy:** Express.js, Node.js, Mongoose
 - **Database Wizardry:** MongoDB, SQL, and more
+- **Container Charms:** Docker, Docker Compose
 
 ## 🚀 Let's Craft Wonders Together!
 

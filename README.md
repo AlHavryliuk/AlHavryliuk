@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Aleksandr – The Code Maestro!
+# 👋 Hi there, I'm Oleksandr – The Code Maestro!
 
 ## 💻 Full-Stack Alchemist
 

@@ -1,22 +1,20 @@
-# 👋 Hi there, I'm Oleksandr – The Code Maestro!
+# 👋 Hi there, I'm Oleksandr
 
-## 💻 Full-Stack Alchemist
+## 💻 My Stack:
 
-I wield the mystical powers of React, Express, Node, and an array of other enchanting technologies to conjure captivating web experiences. My quest for knowledge knows no bounds, and I thrive on unraveling the secrets of new development paradigms.
+- **Frontend:** JavaScript, React, Redux and other react ecosystem
+- **Backend:** Node.js, Express, Python, Django, Java, Spring framework
+- **Database:** MongoDB, PostgreSQL, Oracle database, Redis
+- **Containerization:** Docker, docker-compose
 
-## 🔮 Magic Ingredients
 
-- **Frontend Sorcery:** React.js, JavaScript, HTML, CSS, Sass, Styled-Components
-- **Backend Alchemy:** Express.js, Node.js, Mongoose
-- **Database Wizardry:** MongoDB, SQL, and more
-- **Container Charms:** Docker, Docker Compose
 
-## 🚀 Let's Craft Wonders Together!
+## 👨‍🎨 About me:
 
-Feel free to reach out via GitHub or drop me a message at [gavrfavorite@gmail.com]. I'm always up for new adventures and magical projects!
+I like programming since a childhood and gradually improve my skills. I always learn new technologies and open for challenging tasks. I’m looking for full time projects. Please reach me if you have one.
 
-Remember, the code is mightier than the sword. Let's wield it wisely! 🌟
-
+One of my recent projects was real-time web application. 
+It allowed multiple users to participate in online events. Another project allowed to sync data with third party providers.
 
 <!--
 **AlekasndrHavryliuk/AlekasndrHavryliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
